@@ -5,8 +5,6 @@ Data Fetchers Module
 This module contains all data fetching functions for both US and Indian markets.
 Separated from the Streamlit app for better code organization and reusability.
 
-Author: Data Analysis Project
-Date: 2024
 """
 
 import yfinance as yf
