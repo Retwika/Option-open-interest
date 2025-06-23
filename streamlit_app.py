@@ -5,8 +5,7 @@ Global Options Dashboard with Streamlit
 This Streamlit app provides an interactive dashboard for both US and Indian market options data.
 Users can view options chain data, including key metrics and visualizations for Open Interest and trading Volume.
 
-Author: Data Analysis Project
-Date: 2024
+
 """
 
 import streamlit as st
