@@ -5,8 +5,6 @@ Plotting Utilities Module
 This module contains all plotting functions for both US and Indian markets.
 Separated from the Streamlit app for better code organization and reusability.
 
-Author: Data Analysis Project
-Date: 2024
 """
 
 import matplotlib.pyplot as plt
